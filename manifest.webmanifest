@@ -1,0 +1,13 @@
+{
+  "name": "Siyah Altın",
+  "short_name": "Siyah Altın",
+  "description": "1950–2050: sekiz şirket, tek dünya.",
+  "lang": "tr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14110d",
+  "theme_color": "#14110d",
+  "icons": []
+}
