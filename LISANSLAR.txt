@@ -1,4 +1,4 @@
-Siyah Altın · üçüncü taraf lisans bildirimleri / third-party license notices
+Wattocene · üçüncü taraf lisans bildirimleri / third-party license notices
 
 == three.js (MIT) · vendor/three/LICENSE ==
 The MIT License
