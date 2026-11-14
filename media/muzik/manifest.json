@@ -1,0 +1,769 @@
+{
+ "surum": 1,
+ "olcu": {
+  "hedef_lufs": -23,
+  "tepe_dbtp": -1
+ },
+ "parcalar": [
+  {
+   "id": "ana-tema",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 72,
+   "olcu": 40,
+   "ornek": 6400000,
+   "sn": 133.333,
+   "dongu": true,
+   "katman": {
+    "temel": {
+     "dosya": "ana-tema",
+     "ogg": 824465,
+     "m4a": 1236205,
+     "lufs": -23.0,
+     "tepe_dbfs": -7.8,
+     "lra": 7.8
+    }
+   }
+  },
+  {
+   "id": "yukselis",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 112,
+   "olcu": 56,
+   "ornek": 5760000,
+   "sn": 120.0,
+   "dongu": true,
+   "katman": {
+    "gerilim": {
+     "dosya": "yukselis-gerilim",
+     "ogg": 475636,
+     "m4a": 872021,
+     "lufs": -26.0,
+     "tepe_dbfs": -12.7,
+     "lra": 0.7
+    },
+    "temel": {
+     "dosya": "yukselis",
+     "ogg": 909185,
+     "m4a": 1116426,
+     "lufs": -23.0,
+     "tepe_dbfs": -10.0,
+     "lra": 8.2
+    }
+   },
+   "karisim": {
+    "lufs": -21.1,
+    "tepe_dbfs": -7.0
+   }
+  },
+  {
+   "id": "sarsinti",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 88,
+   "olcu": 48,
+   "ornek": 6283636,
+   "sn": 130.909,
+   "dongu": true,
+   "katman": {
+    "gerilim": {
+     "dosya": "sarsinti-gerilim",
+     "ogg": 590779,
+     "m4a": 949730,
+     "lufs": -26.0,
+     "tepe_dbfs": -10.5,
+     "lra": 0.8
+    },
+    "temel": {
+     "dosya": "sarsinti",
+     "ogg": 940438,
+     "m4a": 1217304,
+     "lufs": -23.0,
+     "tepe_dbfs": -7.5,
+     "lra": 1.8
+    }
+   },
+   "karisim": {
+    "lufs": -21.1,
+    "tepe_dbfs": -5.8
+   }
+  },
+  {
+   "id": "kuresel",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 100,
+   "olcu": 56,
+   "ornek": 6451200,
+   "sn": 134.4,
+   "dongu": true,
+   "katman": {
+    "gerilim": {
+     "dosya": "kuresel-gerilim",
+     "ogg": 614275,
+     "m4a": 978468,
+     "lufs": -26.0,
+     "tepe_dbfs": -11.2,
+     "lra": 6.4
+    },
+    "temel": {
+     "dosya": "kuresel",
+     "ogg": 939893,
+     "m4a": 1254654,
+     "lufs": -23.0,
+     "tepe_dbfs": -8.9,
+     "lra": 4.1
+    }
+   },
+   "karisim": {
+    "lufs": -21.2,
+    "tepe_dbfs": -7.0
+   }
+  },
+  {
+   "id": "hesap",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 90,
+   "olcu": 56,
+   "ornek": 7168000,
+   "sn": 149.333,
+   "dongu": true,
+   "katman": {
+    "gerilim": {
+     "dosya": "hesap-gerilim",
+     "ogg": 620707,
+     "m4a": 1085112,
+     "lufs": -26.0,
+     "tepe_dbfs": -13.2,
+     "lra": 1.2
+    },
+    "temel": {
+     "dosya": "hesap",
+     "ogg": 1013830,
+     "m4a": 1384083,
+     "lufs": -23.0,
+     "tepe_dbfs": -9.3,
+     "lra": 9.5
+    }
+   },
+   "karisim": {
+    "lufs": -21.2,
+    "tepe_dbfs": -7.2
+   }
+  },
+  {
+   "id": "gecis",
+   "tur": "oyun",
+   "pad": 12000,
+   "bpm": 80,
+   "olcu": 48,
+   "ornek": 6912000,
+   "sn": 144.0,
+   "dongu": true,
+   "katman": {
+    "gerilim": {
+     "dosya": "gecis-gerilim",
+     "ogg": 697022,
+     "m4a": 1045200,
+     "lufs": -26.0,
+     "tepe_dbfs": -12.5,
+     "lra": 1.0
+    },
+    "temel": {
+     "dosya": "gecis",
+     "ogg": 940474,
+     "m4a": 1335348,
+     "lufs": -23.0,
+     "tepe_dbfs": -8.7,
+     "lra": 4.7
+    }
+   },
+   "karisim": {
+    "lufs": -21.2,
+    "tepe_dbfs": -7.3
+   }
+  },
+  {
+   "id": "film-kriz",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 96,
+   "olcu": 12,
+   "ornek": 1526400,
+   "sn": 31.8,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-kriz",
+     "ogg": 220752,
+     "m4a": 292464,
+     "lufs": -23.0,
+     "tepe_dbfs": -6.9,
+     "lra": 9.1
+    }
+   }
+  },
+  {
+   "id": "film-kaza",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 60,
+   "olcu": 6,
+   "ornek": 1238400,
+   "sn": 25.8,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-kaza",
+     "ogg": 185772,
+     "m4a": 237417,
+     "lufs": -23.0,
+     "tepe_dbfs": -10.0,
+     "lra": 6.6
+    }
+   }
+  },
+  {
+   "id": "film-tehlike",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 70,
+   "olcu": 7,
+   "ornek": 1238400,
+   "sn": 25.8,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-tehlike",
+     "ogg": 177060,
+     "m4a": 237815,
+     "lufs": -23.0,
+     "tepe_dbfs": -11.3,
+     "lra": 0.8
+    }
+   }
+  },
+  {
+   "id": "film-davet",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 76,
+   "olcu": 16,
+   "ornek": 2511663,
+   "sn": 52.326,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-davet",
+     "ogg": 380306,
+     "m4a": 481551,
+     "lufs": -23.0,
+     "tepe_dbfs": -6.3,
+     "lra": 7.9
+    }
+   }
+  },
+  {
+   "id": "film-yesil",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 88,
+   "olcu": 14,
+   "ornek": 1919127,
+   "sn": 39.982,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-yesil",
+     "ogg": 330831,
+     "m4a": 367320,
+     "lufs": -23.0,
+     "tepe_dbfs": -9.4,
+     "lra": 13.2
+    }
+   }
+  },
+  {
+   "id": "film-hesap",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 84,
+   "olcu": 8,
+   "ornek": 1183543,
+   "sn": 24.657,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-hesap",
+     "ogg": 177556,
+     "m4a": 227086,
+     "lufs": -22.9,
+     "tepe_dbfs": -10.7,
+     "lra": 2.7
+    }
+   }
+  },
+  {
+   "id": "film-felaket",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 66,
+   "olcu": 9,
+   "ornek": 1657309,
+   "sn": 34.527,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-felaket",
+     "ogg": 243411,
+     "m4a": 316774,
+     "lufs": -23.0,
+     "tepe_dbfs": -10.8,
+     "lra": 2.4
+    }
+   }
+  },
+  {
+   "id": "film-final",
+   "tur": "film",
+   "pad": 0,
+   "bpm": 80,
+   "olcu": 15,
+   "ornek": 2246400,
+   "sn": 46.8,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "film-final",
+     "ogg": 343513,
+     "m4a": 431376,
+     "lufs": -23.0,
+     "tepe_dbfs": -6.3,
+     "lra": 9.7
+    }
+   }
+  },
+  {
+   "id": "vurgu-kriz",
+   "tur": "vurgu",
+   "pad": 0,
+   "bpm": 90,
+   "olcu": 2,
+   "ornek": 304000,
+   "sn": 6.333,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "vurgu-kriz",
+     "ogg": 46753,
+     "m4a": 59045,
+     "lufs": -23.0,
+     "tepe_dbfs": -6.5,
+     "lra": 8.2
+    }
+   }
+  },
+  {
+   "id": "vurgu-basari",
+   "tur": "vurgu",
+   "pad": 0,
+   "bpm": 100,
+   "olcu": 2,
+   "ornek": 278400,
+   "sn": 5.8,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "vurgu-basari",
+     "ogg": 40741,
+     "m4a": 53742,
+     "lufs": -23.0,
+     "tepe_dbfs": -11.1,
+     "lra": 10.3
+    }
+   }
+  },
+  {
+   "id": "vurgu-donem",
+   "tur": "vurgu",
+   "pad": 0,
+   "bpm": 72,
+   "olcu": 2,
+   "ornek": 368000,
+   "sn": 7.667,
+   "dongu": false,
+   "katman": {
+    "temel": {
+     "dosya": "vurgu-donem",
+     "ogg": 54079,
+     "m4a": 70745,
+     "lufs": -23.0,
+     "tepe_dbfs": -11.1,
+     "lra": 11.9
+    }
+   }
+  },
+  {
+   "id": "ortam-saha",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1440000,
+   "sn": 30.0,
+   "dongu": true,
+   "tohum": 170975369,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-saha",
+     "ogg": 144475,
+     "m4a": 251680,
+     "lufs": -28.0,
+     "tepe_dbfs": -5.7,
+     "lra": 3.5
+    }
+   },
+   "aciklama": "kara sahası: kuyu başı pompası (5 sn devir: yükselişte gıcırtı, inişte tok vuruş) + uzak gaz motoru + hafif rüzgâr. 30 sn"
+  },
+  {
+   "id": "ortam-deniz",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1536000,
+   "sn": 32.0,
+   "dongu": true,
+   "tohum": 3726323870,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-deniz",
+     "ogg": 141409,
+     "m4a": 267930,
+     "lufs": -28.0,
+     "tepe_dbfs": -14.2,
+     "lra": 2.1
+    }
+   },
+   "aciklama": "açık deniz: üst üste binen dalgalar (dairesel), su şıpırtısı; martı yok (açık deniz). 32 sn"
+  },
+  {
+   "id": "ortam-platform",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1152000,
+   "sn": 24.0,
+   "dongu": true,
+   "tohum": 4030447678,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-platform",
+     "ogg": 115592,
+     "m4a": 202020,
+     "lufs": -28.0,
+     "tepe_dbfs": -16.5,
+     "lra": 0.2
+    }
+   },
+   "aciklama": "deniz platformu / tesis makinesi: jeneratör uğultusu (50 Hz armonikleri), havalandırma, ara ara metal tıkırtı. 24 sn"
+  },
+  {
+   "id": "ortam-gemi",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1200000,
+   "sn": 25.0,
+   "dongu": true,
+   "tohum": 1671521465,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-gemi",
+     "ogg": 116977,
+     "m4a": 210368,
+     "lufs": -28.0,
+     "tepe_dbfs": -12.6,
+     "lra": 0.4
+    }
+   },
+   "aciklama": "tanker makine dairesi uzaktan: yavaş dizel (6,4 Hz ateşleme), gövde titreşimi, pervane çalkantısı. 25 sn"
+  },
+  {
+   "id": "ortam-rafineri",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1440000,
+   "sn": 30.0,
+   "dongu": true,
+   "tohum": 4248177692,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-rafineri",
+     "ogg": 133241,
+     "m4a": 253441,
+     "lufs": -28.0,
+     "tepe_dbfs": -15.0,
+     "lra": 1.8
+    }
+   },
+   "aciklama": "rafineri: meşale (flare) gürlemesi titreşerek, kompresör tonu, ara ara buhar tıslaması. 30 sn"
+  },
+  {
+   "id": "ortam-yagmur",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 960000,
+   "sn": 20.0,
+   "dongu": true,
+   "tohum": 3597017384,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-yagmur",
+     "ogg": 86928,
+     "m4a": 168974,
+     "lufs": -28.0,
+     "tepe_dbfs": -19.0,
+     "lra": 0.1
+    }
+   },
+   "aciklama": "yağmur: ince hışırtı + tek tek damlalar (yoğun) + zemine düşen alçak katman. 20 sn"
+  },
+  {
+   "id": "ortam-ruzgar",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1440000,
+   "sn": 30.0,
+   "dongu": true,
+   "tohum": 713800228,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-ruzgar",
+     "ogg": 134584,
+     "m4a": 251511,
+     "lufs": -28.0,
+     "tepe_dbfs": -14.4,
+     "lra": 6.2
+    }
+   },
+   "aciklama": "rüzgâr: dört bantta yavaş değişen esinti, ara ara uğultu. 30 sn"
+  },
+  {
+   "id": "ortam-firtina",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1728000,
+   "sn": 36.0,
+   "dongu": true,
+   "tohum": 841053999,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-firtina",
+     "ogg": 149727,
+     "m4a": 300641,
+     "lufs": -28.0,
+     "tepe_dbfs": -15.3,
+     "lra": 2.5
+    }
+   },
+   "aciklama": "deniz fırtınası: sert rüzgâr + kırılan büyük dalgalar + sağanak. 36 sn (gök gürültüsü ayrı efekt)"
+  },
+  {
+   "id": "ortam-kalabalik",
+   "tur": "ortam",
+   "pad": 12000,
+   "ornek": 1152000,
+   "sn": 24.0,
+   "dongu": true,
+   "tohum": 1249987555,
+   "katman": {
+    "temel": {
+     "dosya": "ortam-kalabalik",
+     "ogg": 111185,
+     "m4a": 202290,
+     "lufs": -28.0,
+     "tepe_dbfs": -14.6,
+     "lra": 2.0
+    }
+   },
+   "aciklama": "kalabalık mırıltısı (salon): 28 sentetik ses, rastgele ünlü formantları ve hece zarfları. Sözcük, dil, slogan yok:"
+  },
+  {
+   "id": "efekt-korna",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 124800,
+   "sn": 2.6,
+   "dongu": false,
+   "tohum": 692326711,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-korna",
+     "ogg": 18995,
+     "m4a": 22184,
+     "lufs": -23.0,
+     "tepe_dbfs": -12.7,
+     "lra": 0.0
+    }
+   },
+   "aciklama": "sondaj kulesi hava kornası (petrol bulundu): iki boru, perde süpürmesi, açık alan yankısı. 2,6 sn"
+  },
+  {
+   "id": "efekt-hava",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 76800,
+   "sn": 1.6,
+   "dongu": false,
+   "tohum": 2697393987,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-hava",
+     "ogg": 7935,
+     "m4a": 13723,
+     "lufs": -23.0,
+     "tepe_dbfs": -6.0,
+     "lra": 0.0
+    }
+   },
+   "aciklama": "basınçlı hava tahliyesi (pnömatik vana) + metal tok sesi: kuru kuyu, kule sökülür. 1,6 sn"
+  },
+  {
+   "id": "efekt-duduk",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 192000,
+   "sn": 4.0,
+   "dongu": false,
+   "tohum": 2092973572,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-duduk",
+     "ogg": 23110,
+     "m4a": 33748,
+     "lufs": -23.0,
+     "tepe_dbfs": -14.6,
+     "lra": 1.7
+    }
+   },
+   "aciklama": "tanker düdüğü uzaktan: alçak, zengin ton, yavaş giriş, uzun yankı. 4 sn"
+  },
+  {
+   "id": "efekt-gok",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 240000,
+   "sn": 5.0,
+   "dongu": false,
+   "tohum": 1589566691,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-gok",
+     "ogg": 23338,
+     "m4a": 41968,
+     "lufs": -23.6,
+     "tepe_dbfs": -2.2,
+     "lra": 12.2
+    }
+   },
+   "aciklama": "gök gürültüsü: yakın çatırtı + yuvarlanan gürleme. 5 sn"
+  },
+  {
+   "id": "efekt-daktilo",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 86400,
+   "sn": 1.8,
+   "dongu": false,
+   "tohum": 2810249857,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-daktilo",
+     "ogg": 9564,
+     "m4a": 15846,
+     "lufs": -23.0,
+     "tepe_dbfs": -8.8,
+     "lra": 0.0
+    }
+   },
+   "aciklama": "daktilo (1950–1984): 10 vuruş, satır sonu zili. 1,8 sn"
+  },
+  {
+   "id": "efekt-klavye",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 52800,
+   "sn": 1.1,
+   "dongu": false,
+   "tohum": 4152068168,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-klavye",
+     "ogg": 7222,
+     "m4a": 11183,
+     "lufs": -23.0,
+     "tepe_dbfs": -9.2,
+     "lra": 0.0
+    }
+   },
+   "aciklama": "bilgisayar klavyesi (1985 sonrası): yumuşak, hızlı tıklar. 1,1 sn"
+  },
+  {
+   "id": "efekt-zil",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 153600,
+   "sn": 3.2,
+   "dongu": false,
+   "tohum": 1113491698,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-zil",
+     "ogg": 22022,
+     "m4a": 26989,
+     "lufs": -23.0,
+     "tepe_dbfs": -14.8,
+     "lra": 20.3
+    }
+   },
+   "aciklama": "çevirmeli telefon zili (1950–1989): iki çanlı mekanik zil, 20 Hz tokmak, iki çalış. 3,2 sn"
+  },
+  {
+   "id": "efekt-elektronik",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 105600,
+   "sn": 2.2,
+   "dongu": false,
+   "tohum": 3168918644,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-elektronik",
+     "ogg": 18961,
+     "m4a": 19012,
+     "lufs": -23.0,
+     "tepe_dbfs": -18.5,
+     "lra": 0.0
+    }
+   },
+   "aciklama": "elektronik telefon (1990 sonrası): iki tonlu titrek çalış, iki kez. 2,2 sn"
+  },
+  {
+   "id": "efekt-alkis",
+   "tur": "efekt",
+   "pad": 0,
+   "ornek": 216000,
+   "sn": 4.5,
+   "dongu": false,
+   "tohum": 578050601,
+   "katman": {
+    "temel": {
+     "dosya": "efekt-alkis",
+     "ogg": 25396,
+     "m4a": 37834,
+     "lufs": -23.0,
+     "tepe_dbfs": -11.1,
+     "lra": 2.6
+    }
+   },
+   "aciklama": "salon alkışı + mırıltı (kademe/koltuk kazanma): 40 kişi, kabarıp söner. 4,5 sn"
+  }
+ ]
+}
