@@ -65,6 +65,19 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
+== Harita simgeleri / map icons (F2, yapay zekâ / AI) · tools/lisans/f2-harita-simgeleri.txt ==
+Harita simgeleri (F2)
+Bu simgeler, proje sahibinin kendi aboneliğiyle OpenAI ChatGPT/Codex araçları kullanılarak
+yapay zekâ ile üretilmiş, ekip tarafından seçilmiş ve düzenlenmiştir. OpenAI kullanım
+şartlarına göre çıktı üzerindeki haklar kullanıcıya aittir; üçüncü kişi lisansı gerekmez.
+Mağaza sayfalarındaki yapay zekâ içerik beyanı bu simgeleri de kapsar.
+
+Map icons (F2)
+These icons were generated with AI using OpenAI ChatGPT/Codex tools under the project
+owner's own subscription, then selected and edited by the team. Under OpenAI's terms of
+use, rights in the output belong to the user; no third-party licence is required.
+The AI content disclosure on the store pages also covers these icons.
+
 == Yazı tipi / font (SIL OFL 1.1): Cormorant · vendor/fonts/OFL-Cormorant.txt ==
 Copyright 2015 the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
 
