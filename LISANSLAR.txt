@@ -78,6 +78,21 @@ owner's own subscription, then selected and edited by the team. Under OpenAI's t
 use, rights in the output belong to the user; no third-party licence is required.
 The AI content disclosure on the store pages also covers these icons.
 
+== Dergi kapak nesneleri / magazine cover objects (Barrel & Watt, yapay zekâ / AI) · tools/lisans/dergi-kapak-nesneleri.txt ==
+Barrel & Watt dergi kapağı nesne çizimleri (media/dergi/*.webp)
+Bu çizimler, proje sahibinin kendi aboneliğiyle OpenAI ChatGPT (GPT görüntü üretimi) kullanılarak
+yapay zekâ ile üretilmiş, ekip tarafından seçilmiş, kırpılmış ve küçültülmüştür. Özgün PNG dosyaları
+köken kaydıyla saklanır. OpenAI kullanım şartlarına göre çıktı
+üzerindeki haklar kullanıcıya aittir; üçüncü kişi lisansı gerekmez. Mağaza sayfalarındaki yapay
+zekâ içerik beyanı bu çizimleri de kapsar.
+
+Barrel & Watt magazine cover object drawings (media/dergi/*.webp)
+These drawings were generated with AI using OpenAI ChatGPT (GPT image generation) under the
+project owner's own subscription, then selected, cropped and resized by the team. The original
+PNG files are kept with their provenance record. Under OpenAI's terms of use,
+rights in the output belong to the user; no third-party licence is required. The AI content
+disclosure on the store pages also covers these drawings.
+
 == Yazı tipi / font (SIL OFL 1.1): Cormorant · vendor/fonts/OFL-Cormorant.txt ==
 Copyright 2015 the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
 
